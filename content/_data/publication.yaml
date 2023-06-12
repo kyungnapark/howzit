@@ -1,0 +1,129 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'http://localhost:8080'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: Howzit!
+subtitle: The Linda Mabalot Effect
+reading_line:
+short_title:
+
+description:
+  one_line:
+  full: "Serving as the longest tenured Executive Director at Visual Communications (VC) from 1984 til her passing in 2003, 
+  this exhibition celebrates a community leader widely loved and remembered for her creativity, spontaneity, and infectious laugh. 
+  Linda Mabalot, a self-described “country girl” from Dixon, was an activist, journalist, and mentor for newer generations of media artists and leaders. 
+  Her impact, or the “Linda Effect”, can be seen most clearly in the people that she collaborated with, mentored, and uplifted. Drawing from Linda’s bursting greeting, “Howzit!: The Linda Mabalot Effect” portrays Linda’s everlasting legacy in the people that she influenced whose work continues to nourish the Asian Pacific American community today."
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2023-05-19 # YYYY-MM-DD
+language: en
+pub_type: book # book | journal-periodical | other
+
+identifier:
+  isbn:
+
+publisher:
+  - name: Visual Communications
+    location: Downtown Los Angeles, Little Tokyo
+    url: https://vcmedia.org/
+    logo: logo-vc.png
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears: Visual Communications
+
+contributor:
+  - id: visualcommunications
+    type: primary
+    first_name: Visual
+    last_name: Communications
+    title: 
+    affiliation: Visual Communications Photographic Archives
+    bio: "Visual Communications (VC) is a media arts non-profit based in Little Tokyo, Los Angeles. 
+    VC's largest public-facing program is the annual Los Angeles Asian Pacific Film Festival, held in various locations throughout the Los Angeles area. 
+    VC is also home to the VC Archives, one of the largest repositories of the Asian Pacific American experience in the United States."
+    url: https://vcmedia.org/
+    image: logo-vc.png
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2023 Visual Communications Media
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/output.pdf
+  - type: other-format
+    name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/output.epub
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    identifer: PHO023100
+  - type: keywords
+    name: nonprofit, asian, asian-american, asian-pacific-american, leaders, female-leaders
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: linda-mabalot.jpg

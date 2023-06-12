@@ -1,0 +1,206 @@
+figure_list:
+
+  - id: "lange"
+    src: figures/lange.jpg
+    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
+    credit: "Library of Congress Prints and Photographs Division"
+
+  - id: "evans"
+    src: figures/evans.jpg
+    caption: "*Walker Evans, profile, hand up to face*, 1937."
+    credit: "Library of Congress Prints and Photographs Division"
+
+  - id: "fig-1"
+    label: "Figure 1"
+    src: figures/evans-legionnaire.jpg
+    caption: "Walker Evans. *[American Legionnaire]*, 1935."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "fig-2"
+    label: "Figure 2"
+    src: figures/evans-sons.jpg
+    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "fig-3"
+    label: "Figure 3"
+    src: figures/evans-graveyard.jpg
+    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "fig-4"
+    label: "Figure 4"
+    src: figures/evans-hymns.jpg
+    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "fig-5"
+    label: "Figure 5"
+    src: figures/evans-burroughs.jpg
+    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "lange-house"
+    src: figures/lange-house.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "vid-1"
+    poster: figures/evans-video-still.jpg
+    media_id: BpGN0UUtqqU
+    media_type: youtube
+    label: "Video 1"
+    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
+    credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "table-1"
+    src: "tables/evans-works.html"
+    media_type: table
+
+  - id: "audio-1"
+    media_id: 336879231
+    media_type: soundcloud
+    label: "Audio 1"
+    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
+    credit: "© J. Paul Getty Trust"
+
+  - id: "cat-1"
+    src: figures/lange-mother-a.jpg
+    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
+    credit: The J. Paul Getty Museum, Los Angeles
+    download: true
+    zoom: true
+
+  - id: "mother-variants"
+    label: "Figure 1.1"
+    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
+    credit: "Library of Congress Prints and Photographs Division"
+    annotations:
+      - input: radio
+        items:
+        - src: figures/lange-mother-b.jpg
+          label: "Variant #1"
+        - src: figures/lange-mother-c.jpg
+          label: "Variant #2"
+
+  - id: "mother-annotations"
+    src: "figures/lange-layers/base.jpg"
+    zoom: true
+    label: "Figure 1.2"
+    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/lange-layers/original-label.png"
+            selected: true
+          - src: "figures/lange-layers/additional-label.png"
+          - src: "figures/lange-layers/scratches.png"
+          - src: "figures/lange-layers/thumb.png"
+            selected: true
+
+  - id: "cat-2"
+    src: figures/evans-fields-family-a.jpg
+    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
+    credit: The J. Paul Getty Museum, Los Angeles
+    download: true
+    zoom: true
+
+  - id: "cat-2-b"
+    src: figures/evans-fields-family-b.jpg
+    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
+    credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "cat-2-c"
+    src: figures/evans-bud-fields.jpg
+    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
+    credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "abraham-ferrer"
+    src: figures/abraham-ferrer.jpg
+    caption: "(From left): Matthew Lopez, Barbara Nishimura, Linda Mabalot, and Abraham Ferrer at the Ninth Annual Los Angeles Asian Pacific Film and Video Festival, 1994."
+    credit: "Visual Communications Photographic Archive"
+    alt: "Four individuals smiling in a group photo, holding up papers that say, 'The Ninth Annual Asian Pacific Film Festival'."
+
+  - id: "amy-kato"
+    src: figures/amy-kato.jpg
+    caption: "(From left): Linda Mabalot and Amy Kato, late 1980s."
+    credit: "Visual Communications Photographic Archive"
+    alt: "Two women smiling next to each other."
+
+  - id: "bill-watanabe"
+    src: figures/bill-watanabe.jpg
+    caption: "(From left): Bill Watanabe and Linda Mabalot standing in front of the renovation of the future 'Union Center for the Arts', 1997."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A man and a woman smiling, standing in front of a church undergoing construction."
+
+  - id: "filmmakers"
+    src: figures/filmmakers.jpg
+    caption: "(From left): Linda Mabalot, Stanley 'MC Hammer' Burrell, Justin Lin, Perry Shen, Sung Kang, Karin Anna Cheung, Roger Fan, Julie Asato, Joan Huang at the *Better Luck Tomorrow* screening at the 2002 Los Angeles Asian Pacific Film Festival, 2002."
+    credit: "Visual Communications Photographic Archive"
+    alt: "Eight individuals smiling in a group photo."
+
+  - id: "fpac"
+    src: figures/fpac.jpg
+    caption: "(From left): Unknown, Rosie Lee Hooks, Unknown, Casimiro Tolentino, Tanya Azores, Rose Ibanez, (Kneeling from left): Linda Mabalot, Gerald Gubatan, 1999."
+    credit: "Visual Communications Photographic Archive"
+    alt: "Nine individuals smiling in a group photo. Two individuals are kneeling in front, smiling by a podium with a silk banner embroidered with the letters 'Festival of Philippine Arts and Culture'."
+
+  - id: "francis-cullado"
+    src: figures/francis-cullado.jpg
+    caption: "(From left): Francis Cullado and Frances Ito at the Los Angeles Asian Pacific Film Festival, 2022."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A man and an elderly woman wearing masks smiling next to each other."
+
+  - id: "janice-tanaka"
+    src: figures/janice-tanaka.jpg
+    caption: "Janice Tanaka during the production of *Hito Hata: Raise the Banner*, 1979."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A woman wearing a set of headphones looks to the right while smiling."
+
+  - id: "john-esaki"
+    src: figures/john-esaki.jpg
+    caption: "John Esaki shooting *Taiko!*, a documentary short that premiered at the Children's Musuem, 1988."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A man stands behind a z31 Hitachi film camera."
+
+  - id: "laapff-2003-closing"
+    src: figures/laapff-2003-closing.jpg
+    caption: "A capacity crowd at the then Aratani/Japan America theatre sending best wishes to Linda Mabalot during closing night ceremonies of the 2003 Los Angeles Asian Pacific Film Festival*, 2003."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A large group of people inside a theatre sit and smile at the camera. Audience members on the second floor hold up 7 large posters that spell H-O-W-Z-I-T-!"
+
+  - id: "leslie-ito"
+    src: figures/leslie-ito.jpg
+    caption: "Leslie Ito speaks at the Japanese American Cultural and Community Center (JACCC), 2003."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A woman speaks at a podium decorated with a glass placard titled 'JACCC'."
+
+  - id: "linda-apsu"
+    src: figures/linda-apsu.jpg
+    caption: "Linda Mabalot as a member of the Asian Pacific Student Union, late 1970s."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A young woman speaks to a circle of students in a grassy field."
+
+  - id: "linda-mabalot"
+    src: figures/linda-mabalot.jpg
+    caption: "Linda Mabalot cheering on Gene Cajayon's *The Debut*, which opened the 2000 edition of the Los Angeles Asian Pacific Film Festival, 2003."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A close-up shot of a woman siting in a theatre, looking onto the stage."
+
+  - id: "nancy-araki"
+    src: figures/nancy-araki.jpg
+    caption: "Nancy Araki at the Visual Communications office, mid 1980s."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A woman smiles at the camera, stationed inside an office space."
+
+  - id: "parkcity"
+    src: figures/parkcity.jpg
+    caption: "The second annual Asian Pacific Filmmaker Experience in Park City, Utah. From left: David Magdael, Toni Tabora, Risa Morimoto, Abraham Ferrer, Winston Emano, Linda Mabalot, 2003."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A group of six individuals smile at the camera. The woman on the far right holds a paper titled, 'The Asian American Film Experience 2003'."
+
+  - id: "vc-founders"
+    src: figures/vc-founders.jpg
+    caption: "Linda Mabalot and Visual Communications founders at the 20th anniversary celebration taking place at the Japanese American Cultural and Community Center (JACCC). From left: Alan Ohashi, Eddie Wong, Robert Nakamura, Linda Mabalot, Duane Kubo, 1990."
+    credit: "Visual Communications Photographic Archive"
+    alt: "A group of four men and a woman gather at a table, poised to cut into a cake with decorative frosting that writes, 'Happy 20th Anniversary Visual Communications'."

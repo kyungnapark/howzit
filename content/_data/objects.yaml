@@ -1,0 +1,128 @@
+object_display_order:
+  - year
+  - dimensions
+  - medium
+  - location
+
+object_list:
+
+  - id: 1
+    title: Abraham Ferrer
+    year: 1994
+    medium: 35mm Black and White Negative
+    dimensions: 
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "abraham-ferrer"
+
+  - id: 2
+    title: Amy Kato
+    year: "late 1980's"
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "amy-kato"
+
+  - id: 3
+    title: Bill Watanabe
+    year: 1997
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "bill-watanabe"
+
+  - id: 4
+    title: Francis Cullado
+    year: 2022
+    medium: Digital Color Photograph
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "francis-cullado"
+  
+  - id: 5
+    title: Janice Tanaka
+    year: 1979
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "janice-tanaka"
+
+  - id: 6
+    title: John Esaki
+    year: 1988
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "john-esaki"
+
+  - id: 7
+    title: Leslie Ito
+    year: 2003
+    medium: 35mm Color Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "leslie-ito"
+
+  - id: 8
+    title: Asian Pacific Student Union
+    year: "late 1970's"
+    medium: 35mm Color Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "linda-apsu"
+
+  - id: 9
+    title: Linda Mabalot
+    year: 2000
+    medium: 35mm Color Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "linda-mabalot"
+
+  - id: 10
+    title: Nancy Araki
+    year: "mid 1980's"
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "nancy-araki"
+  
+  - id: 11
+    title: Better Luck Tomorrow
+    year: 2002
+    medium: Digital Color Photograph
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "filmmakers"
+
+  - id: 12
+    title: Festival of Philippine Arts and Culture
+    year: 1999
+    medium: Digital Color Photograph
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "fpac"
+
+  - id: 13
+    title: Los Angeles Asian Pacific Film Festival (LAAPFF)
+    year: 2003
+    medium: 35mm Color Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "laapff-2003-closing"
+
+  - id: 14
+    title: Asian Pacific Filmmakers Experience in Park City, Utah
+    year: "mid 1980's"
+    medium: 35mm Color Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "parkcity"
+
+  - id: 15
+    title: Visual Communications Founders
+    year: 1990
+    medium: 35mm Black and White Negative
+    location: Visual Communications Photographic Archives
+    figure:
+      - id: "vc-founders"
